@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings to execution of the sentence awarded against Captain Thomas Walcot, William Hone, and John Rouse for high-treason who were, on Fryday the 10th of this instant July, drawn, hang'd, &amp; quarter'd at Tyburn, for conspiring the death of the king ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04845</idno>
+            <idno type="STC">Wing P3625</idno>
+            <idno type="STC">ESTC R182136</idno>
+            <idno type="EEBO-CITATION">52614853</idno>
+            <idno type="OCLC">ocm 52614853</idno>
+            <idno type="VID">176039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04845)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176039)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings to execution of the sentence awarded against Captain Thomas Walcot, William Hone, and John Rouse for high-treason who were, on Fryday the 10th of this instant July, drawn, hang'd, &amp; quarter'd at Tyburn, for conspiring the death of the king ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walcot, Thomas, d. 1683 --  Death and burial --  Early works to 1800.</term>
+               <term>Hone, William, d. 1683 --  Death and burial --  Early works to 1800.</term>
+               <term>Rouse, John, d. 1683 --  Death and burial --  Early works to 1800.</term>
+               <term>Rye House Plot, 1683 --  Sources.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proceedings">
+            <pb n="1" facs="tcp:176039:1" rendition="simple:additions"/>
+            <head>THE PROCEEDINGS To EXECUTION of the Sentence awarded againſt Capt. <hi>Thomas Walcot, William Hone,</hi> and <hi>John Rouſe.</hi> FOR High Treaſon.</head>
+            <p>
+               <hi>Who were on</hi> Friday <hi>the 20th. of this Inſtant</hi> July <hi>Drawn, Hanged and Quar<g ref="char:EOLhyphen"/>tered at</hi> Tyburn, <hi>for conſpiring againſt the Life of the KING, and to raiſe War and Rebellion, in order to Subvert the Government,</hi> &amp;c. <hi>Con<g ref="char:EOLhyphen"/>taining a Relation of what happened during their Impriſonment, and at the place of Execution. With their Confeſſions at</hi> Tyburn.</p>
+            <p>
+               <hi>THomas Walcot, William Hone,</hi> and <hi>John Rouſe,</hi> having been Accuſed to the Kings moſt Honourable Council, by the Diſcoverers of the Plot againſt the Life of His Majeſty, of many Treaſonable purpoſes and intentions, and up<g ref="char:EOLhyphen"/>on Warrant Iſſued out for that purpoſe. Apprehended, they were on the <hi>12th.</hi> of this inſtant <hi>July</hi> brought to the Seſſions houſe in the <hi>Old-Bayly,</hi> and there Arraigned upon the Indictments of High Treaſon found againſt them by the Grand Jury, for Conſpiring the Death of the King, and deſigning to raiſe War and Rebellion, and in order thereto procuring Arms, as Blunderbuſſes, Muſquets, Piſtols and the like, to which Indictments they Pleading not Guilty; whereupon <hi>Thomas Walcot</hi> be<g ref="char:EOLhyphen"/>ing ordered to look to his Challenges, in order to accepting against the Preemptory number, which is <hi>35.</hi> of the Jurors, he made exceptions against all ſuch as be<g ref="char:EOLhyphen"/>longed to the Lieutenancy, but in the end a Jury of <hi>12.</hi> Men being Sworn, they were charged with, to try the Iſsue between the King and him, in caſe of his Life and Death: Whereupon Colonel <hi>Rumſie,</hi> Mr. <hi>Well,</hi> Mr. <hi>Keeling,</hi> Mr. <hi>Bourn</hi> and others, ſwore him preſent at divers Treaſonable Conſpiracies, Conſults, and Traiterous Contrivancies, that he was to Command a Party to deſtroy the Kings Guards, whilſt others Aſſaſſinated the King and Duke, <hi>&amp;c.</hi> in <hi>February</hi> laſt, at what time they were to return from <hi>New-Market,</hi> and that a Conſult was held to enquire into the day of their return, and that they differed about the particular time, though afterwards they came to a Reſult, but that the Fire that happened at <hi>Newmarket</hi> fruſtrated the Intention <hi>&amp;c.</hi> On the <hi>Friday</hi> following being the <hi>13th.</hi> instant, <hi>William Hone,</hi> and <hi>John Rouſe</hi> were tryed for the like Treaſon in Conſpiring against his Majestie, him to Death, and final Deſtruction to put, <hi>&amp;c.</hi> againſt whom the Kings Evidence depoſed, firſt, that <hi>Hone</hi> had agreed to be one of the Aſſaſſinates, and was to have a Sum of Money to buy him Furniture for that purpoſe, as Horſe and Arms, <hi>&amp;c.</hi> and that he had declared he was to be one that ſhould ſeize the Captain and Lieutenant, and that at another time he de<g ref="char:EOLhyphen"/>clared it would never be well till the <hi>Blackbird</hi> and <hi>Goldfinch</hi> were knocked on the Head, and that both thoſe Mysterious Expreſſions, be explained himſelf to mean the King and Duke of <hi>York;</hi> theſe and many more were the circumſtances that
+<pb n="2" facs="tcp:176039:2"/>occurred upon this and the former Tryal, under the like circumſtances was <hi>John Rouſe</hi> Indicted for High Treaſon and Conſpiracy againſt the Life of the King, tending to the ſubverſion of the Government, ſo that in the end after divers Ar<g ref="char:EOLhyphen"/>guments they were found Guiltie, and the day following received Sentence to be Drawn, Hanged, and Quartered, as the Law in caſe of Conviction for High Treaſon requires, when deſiring their Friends might viſit them, and time for Re<g ref="char:EOLhyphen"/>pentance allowed, they were remanded to Priſon, where as Men ſenſible of the near approach of their diſſolution they continued, being often viſited by their Friends and Relations who came to condole their misfortunes, and to comfort them with ſea<g ref="char:EOLhyphen"/>ſonable admonitions to prepare for a future ſtate, ſeing their Lives were forfeited by the Law, and that Execution of the Sentence paſsed upon them would not be long deferred foraſmuch as all hopes of pardon was vaniſhed, and whether a Reprieve for longer Laſe would be granted to them remained doubtful; the former and the latter being at the pleaſure of His Majestie, whom they had ſo highly offended; where<g ref="char:EOLhyphen"/>upon they taking the cordial advice of thoſe that regarded their happineſſe as to the Life to come, ſeriouſlie conſidering in what estate they remain, and what a large account they were ſhort lie to give before the Dreadful Tribunal of all their Acti<g ref="char:EOLhyphen"/>ons, inſomuch that at times they were not interrupted by Viſitants, their ſerious thoughts were for the moſt part imploied in Confeſſing their Sins, and begging pardon of God for their Offences, during their abode in <hi>Newgate,</hi> the Sheriffs of <hi>London</hi> and <hi>Middleſex</hi> came to viſit them, in order to perſwade them to an ingenious Confeſſion, as far as they were conſcious of the Conſpiracie of which they ſtood Convicted, the ſame Arguments uſed divers other Loyal Perſons, but they ſeemed much reſerved, ſaying, they had been brought to diſgrace, and conſequent lie to an untimelie end, by their too much credulitie, and that it was now too late to retrive what was paſt, but ear<g ref="char:EOLhyphen"/>neſtlie begged pardon of thoſe they had Offended.</p>
+            <p>Captain <hi>Walcot</hi> ſeldom appeared publicklie, but kept himſelf to his retirement, either Reading or Converſing with particular Friends that came to take their last farewel of him. <hi>John Rouſe</hi> was often obſerved buſie as is ſuppoſed writing for the moſt part, but to what effect remains yet uncertain, unleſſe a Petition humbly to beſeech His Majeſtie to beſtow his dead Body on his Wife. <hi>William Hone</hi> was moſt dejected of the three, the fear of death having in a manner stupifyed him, inſomuch that he was hardlie induced to anſwer to the questions demanded of him by ſuch as came to Examine or Diſcourſe him. This and ſuch like was their be<g ref="char:EOLhyphen"/>havior, till they had notice that the Warrant was Signed for their Execution, and that they muſt prepare to die as this day, which heavie tho expected news they re<g ref="char:EOLhyphen"/>ceived with different paſſions, continuing as men that devoted to the Grave till this Morning, at what time being put into a Sledg, they were drawn to the place of Execution, attended by a ſtrong Guard of the Sheriffs Men, and Hamblet Warders.</p>
+            <p>About <hi>10.</hi> in the Morning, <hi>Thomas Walcot, John Rouſe,</hi> and <hi>William Hone</hi> were brought to <hi>Tayburn,</hi> the former in a Sledge by himſelf, and the 2 latter in another Sledge, when being unbound, they were helped into the Cart prepared for that purpoſe, and there for a while Converſed with the Ministers, whe were Dr. <hi>C<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtwrite,</hi> and Mr. Ordinarie, both of them perſwading them to make an inge<g ref="char:EOLhyphen"/>nious Confeſſion, according to the beſt of their Knowledge: Whereupon Captain <hi>Walcot</hi> drew out two Papers, and ſhewed them to the Miniſters, and thoſe that were in the Cast, ſaying, that he had Written them to Read publicklie, which when he was ordered to do, he vvith a compoſed Countenance did it Audiblie, the firſt was in Nature of a Confeſſion of his Enormities to God, wherein he deſired for<g ref="char:EOLhyphen"/>giveneſs, declaring that he had been a great ſinner, and for that cauſe, God had
+<pb n="3" facs="tcp:176039:2"/>ſuffered him to perpetrate thoſe Crimes, that had rendered him worthy of Death; deſiring God of his Mercy to forgive him his manifold Offences, and that all the World would forgive him, whom he had offended, putting up divers Ejaculations, deſiring that he might be an Example to warn others from daring to attempt any Treaſonable Deſign or Conſpiracy againſt the Life of the King, after which ano<g ref="char:EOLhyphen"/>ther Paper he held in his hand, ſometimes looking on it, and other times not while he was ſpeaking or making his Confeſſion to the People, declaring, that he was guilty of the Conſpiracy, as to the knowledge thereof, and that he was drawn into the ſaid Conſpiracy by People that promiſed him great things, but that now he plainly perceived there was no Faith in Man, as to the matter of the Aſſaſſi<g ref="char:EOLhyphen"/>nation, he confeſſed to have knowledge of it, and that he had been Incited there<g ref="char:EOLhyphen"/>to by Evil-affected Perſons, whom he deſired God to forgive, Praying that his, and his Fellows preſent, might be the laſt Blood that might be ſhed upon the oc<g ref="char:EOLhyphen"/>caſion of the Conſpiracy, he confeſſed he had been at divers Conſults, and that once and no more to his remembrance, he had been in the Company of two Lords, nam<g ref="char:EOLhyphen"/>ing divers of the Perſons fled upon the Diſcovery of the Plot, and Conſpiracy, ſay<g ref="char:EOLhyphen"/>ing, they had drawn him unexpectedly into the miſchief, he having not long before arrived in <hi>England,</hi> and that too late, he was conſcious of his too much credulity, which had brought him to his deſerved, though ſhameful and unexpected End, de<g ref="char:EOLhyphen"/>ſiring of God to proſper, and preſerve the King, or to this purpoſe, he alſo ſaid, that when the Conſpiracy was diſcovered, he was promiſed by ſome who had drawn him into it, to be ſafely conveyed into <hi>Holland,</hi> and that when they had decoyed him, and were conveying him to Priſon-ward, they told him they deſigned to Ship him, <hi>&amp;c.</hi> and ſo continued with penitential Tears, to bewail his Crimes and unhappy End, but would not own, that he was actually to kill the King. tho he was to be aſſisting therein, deſiring the People to obey, and in all Cordial ſincerity endeared them<g ref="char:EOLhyphen"/>ſelves to His Majeſty, who well deſerved the love and tendereſt reſpect of His Sub<g ref="char:EOLhyphen"/>jects, this being the Subſtance of <hi>Walcots</hi> Speech.</p>
+            <p>
+               <hi>John Rouſe</hi> began to make his Confeſſion, when having deſired God to forgive him his Sins, he confeſsed that he had been at divers Conſults, and that he was to have Acted, but as to each particular he was Ignorant, but that he had been privy to many Treaſonable Diſcourſes, tending to an Inſurrection or the like, deſir<g ref="char:EOLhyphen"/>ing God to forgive him his many ſins, which he ſaid had been multiplied, but that he was above all ſorrowfull for offending againſt ſuch great Light, ſaying, the cryes of a Wife and Children, were the chiefeſt Instigations to make him Ingage in the Wicked Deſign of which he heartily repented, and for which he had juſtly deſerved to die, declaring, that he had been drawn into it by the Earl of <hi>Shaftesbury</hi> and others, who were now fled, and that he did not, when firſt he entered into it, think the deſign had any wayes tended to the touching the Life of His Majeſty, or that the Conſpiracy would have arrived to the height it at last did, and continued to expreſs his Sorrow and Repentance for his being ſo long conſcious of ſo Notorious a Wicked<g ref="char:EOLhyphen"/>neſs, and not revealing it, which he attributed to the fear of his own Safety, by rea<g ref="char:EOLhyphen"/>ſon he had for ſome time paſt, been under Evil Circumſtances, and been rendered obnoxious to many Perſons of known Loyalty: and in Fine, he confeſſed moſt of the Charge Evidenced againſt him, at his Tryal in the <hi>Old-Bayly,</hi> on the <hi>13.</hi> Instant, grievouſly complaining against thoſe that had drawn him into the miſchievous Con<g ref="char:EOLhyphen"/>ſpiracy, begging forgiveneſs of all he had offended in thought or deed, deſiring God to continue the Kings Life and long Reign, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:176039:3"/>
+            <p> 
+               <hi>Hone</hi> ſpoke little as to particulars, but in all general confeſſed that he was G<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty of the Conſpiracy, and was to have been one of the number that was to have <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſaſinated the King, in his return from <hi>New-mercat,</hi> and that <hi>Goodenough</hi> a<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> others had by many Perſwaſions prevailed with him, to undertake what he did; <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> likewiſe confeſſed he had told Mr. <hi>Weſt,</hi> he had ſpoke with <hi>Goodenough,</hi> and <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lated to him the meaſures that he was to take, ſaying, that he had agreed to be o<gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> in the Aſſaſſination with divers other Circumſtances, of which theſe are the most m<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>terial, tho indeed his Diſcourſe was but ſhort in reſpect to the two former.</p>
+            <p>The Confeſſions thus made, or as near as could be taken, thus, or to this effect the Ministers Prayed with them, and Sung a Pſalm, after which, they ſeverally deſired to ſay a Prayer of themſelves, which was granted, Captain <hi>Walcot</hi> begin<g ref="char:EOLhyphen"/>ing firſt, who Prayed fervently, as being throughly ſenſible of his Offence, deſiring the Prayers of all good Men, next <hi>Hone</hi> made a Prayer, and afterwards <hi>Rouſe:</hi> Each of them conducing greatly to bewail the greatneſs of their Offences, asking for<g ref="char:EOLhyphen"/>giveneſs, eſpecially of His Majeſty, againſt whom they had ſo highly offended, when being asked what further they had to ſay, they only deſired, that God would forgive them, and that all People would take Example by them, and not be enticed or per<g ref="char:EOLhyphen"/>ſwaded to enterprize ſo great a Wickedneſs as had brought them to ruine, though as they hoped God would accept of their late Repentance, and thoſe that heard them, and beheld their untimelie End would take warning thereby, and avoid the like Temptations.</p>
+            <p>Theſe, or to this effect, they having confeſſed and declared, the Cart was drawn away, and after they had hung <hi>3.</hi> quarters of an hour, they were cut down and Quartered one by one, their Bowels burnt, <hi>&amp;c.</hi> according to the Sentence pronunc<g ref="char:EOLhyphen"/>ed againſt them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Langley Curtis,</hi> at the ſign of Sir <hi>Edmund-bury Godfrey</hi>'s Head, near <hi>Fleet-Bridge,</hi> the Phanatick Printer.</p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
